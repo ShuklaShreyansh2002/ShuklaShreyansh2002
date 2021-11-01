@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreyansh Shukla
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++, Python, Java and Web Development
+- 👀 I’m interested in Coding and Web Development
+- 🌱 I’m currently learning C++, Python, Java,HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on some Coding projects
 - 📫 You can reach me using facebook Handle using username "Shreyansh Shukla".
 
